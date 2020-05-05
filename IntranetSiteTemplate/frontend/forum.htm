@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Forum</title>
+  <link href="../../../../../../../Users/nimes/PhpstormProjects/PHP-Projects/IntranetSiteTemplate/stylesheets/main.css" rel="stylesheet" media="screen, projection">
+<script src="http://maps.google.com/maps/api/js?sensor=true" type="text/javascript"></script>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+<script type="text/xml">
+</script>
+</head>
+<body>
+<!-- Inserts pageHeader.html/pageHeader reference/code here-->
+<iframe src="pageHeader.html" onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
+<!-- User Generated Content-->
+<article id="mainContent">
+  <h1>Employee Form</h1>
+<p>Please submit your post here.</p>
+  <!--Insert PHP file in "" of form action-->
+  <form action = "" method = "get">
+    Fill the Detail:
+    <br />
+
+    <textarea rows = "5" cols = "50" name = "description">
+            Enter your name
+         </textarea>
+
+    <input type = "submit" value = "submit" />
+  </form>
+  <h2>Map &amp; Directions</h2>
+  <section class="address">
+<h3>Amphenol ICC</h3>
+<p>825 Old Trail Road<br>
+Etters, PA 17319<br>
+717.938.7200</p>
+</section>
+  <div id="mapCanvas" style="width:381px; height:330px; min-width:300px; min-height:300px"></div>
+ </article>
+<aside>
+<section class="birthday info">
+<h2>Birthdays</h2>
+
+</section>
+  <section class="anniversary info">
+    <h2>Anniversaries</h2>
+
+  </section>
+  <section class="connect info">
+    <h2>Connect with us</h2>
+    <ul>
+      <li><a href="https://twitter.com/amphenol" title="Follow us!" target="_blank" class="twitter">Twitter</a></li>
+      <li><a href="https://www.facebook.com/pages/Amphenol-Corporation/602085359894788" title="Be our friend" target="_blank" class="facebook">Facebook</a></li>
+      <li><a href="https://www.linkedin.com/company/162444/" title="Let's connect" target="_blank" class="linked">LinkedIn</a></li>
+    </ul>
+  </section>
+
+</aside>
+<!-- Inserts pageFooter.html/pageFooter reference/code here-->
+<iframe src="pageFooter.html" onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
+
+
+</body>
+<!--Calling googleMaps.js file externally to display map of Amphenol ICC-->
+<script type="text/javascript" src="../../../../../../../Users/nimes/PhpstormProjects/PHP-Projects/IntranetSiteTemplate/javascript/googleMaps.js"></script>
+<input onclick="initializeGoogleMap(), addMarker()">
+</html>
