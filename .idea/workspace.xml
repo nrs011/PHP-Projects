@@ -1,16 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3e2ad79-38a7-4d60-811e-eb92fd8e7263" name="Default Changelist" comment="" />
+    <list default="true" id="f3e2ad79-38a7-4d60-811e-eb92fd8e7263" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/PHP-Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PHP-Projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
-    <execution />
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/Laravel/lsapp/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/composer" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/kylekatarnls/update-helper" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/Laravel/lsapp/vendor/laravel/framework" />
+    </include_path>
   </component>
   <component name="ProjectId" id="1bVJMddjZlHzMnE6uvWWLc7ookd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,6 +98,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../php-5.6/php.exe" />
+    <property name="settings.editor.selected.configurable" value="Laravel.SettingsForm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PHP 5.6" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/../../php-5.6/php.exe">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="AMPPS PHP 5.6" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -31,6 +122,10 @@
       <option name="presentableId" value="Default" />
       <updated>1588711280559</updated>
       <workItem from="1588711281703" duration="100000" />
+      <workItem from="1588711661289" duration="232000" />
+      <workItem from="1588712300063" duration="385000" />
+      <workItem from="1588712692168" duration="179000" />
+      <workItem from="1588713197738" duration="6000" />
     </task>
     <servers />
   </component>
@@ -38,9 +133,37 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="422" y="83" key="FileChooserDialogImpl" timestamp="1588711374856">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588712343563">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="422" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1588711374856" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1588712343563" />
+    <state x="474" y="286" width="598" height="298" key="ComposerAddDependencyOutputPopupDimensionServiceKey" timestamp="1588712632545">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="474" y="286" width="598" height="298" key="ComposerAddDependencyOutputPopupDimensionServiceKey/0.0.1280.680@0.0.1280.680" timestamp="1588712632545" />
+    <state x="416" y="253" key="ComposerInitDialogKey" timestamp="1588712382522">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="416" y="253" key="ComposerInitDialogKey/0.0.1280.680@0.0.1280.680" timestamp="1588712382522" />
+    <state x="422" y="83" key="FileChooserDialogImpl" timestamp="1588712831163">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1588712831163" />
+    <state x="510" y="238" key="Github.ShareDialog" timestamp="1588711824421">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="510" y="238" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1588711824421" />
+    <state x="446" y="38" key="Github.UntrackedFilesDialog" timestamp="1588711833771">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="38" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1588711833771" />
+    <state x="373" y="98" key="PHPComposerAddDependencyDialogDimensionKey" timestamp="1588712635244">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="373" y="98" key="PHPComposerAddDependencyDialogDimensionKey/0.0.1280.680@0.0.1280.680" timestamp="1588712635244" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1588712776737">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1588712776737" />
   </component>
 </project>
